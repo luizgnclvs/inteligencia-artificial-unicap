@@ -6,8 +6,8 @@ Utilizando o [Google Colab](https://colab.research.google.com/) para a codifica�
 
 ## Índice
 
-- Prática com Redes Neurais Artificiais
-- Otimização de Hiperparâmetros de Redes Neurais MLP
-- Classificação de Imagens
-- Processamento de Linguagem Natural
-- Geração de Textos
+- [Prática com Redes Neurais Artificiais](https://github.com/luizgnclvs/inteligencia-artificial-unicap/tree/main/Pr%C3%A1tica%20com%20Redes%20Neurais%20Artificiais)
+- [Otimização de Hiperparâmetros de Redes Neurais](https://github.com/luizgnclvs/inteligencia-artificial-unicap/tree/main/Otimiza%C3%A7%C3%A3o%20de%20Hiperpar%C3%A2metros)
+- [Classificação de Imagens](https://github.com/luizgnclvs/inteligencia-artificial-unicap/tree/main/Classifica%C3%A7%C3%A3o%20de%20Imagens)
+- [Processamento de Linguagem Natural](https://github.com/luizgnclvs/inteligencia-artificial-unicap/tree/main/Processamento%20de%20Linguagem%20Natural)
+- [Geração de Textos](https://github.com/luizgnclvs/inteligencia-artificial-unicap/tree/main/Gera%C3%A7%C3%A3o%20de%20Textos)
