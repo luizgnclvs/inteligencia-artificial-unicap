@@ -1,4 +1,4 @@
-# Otimização de Hiperparâmetros de Redes Neurais MLP
+# Otimização de Hiperparâmetros de Redes Neurais Perceptron Multi-Camadas (MLP)
 
 Os hiperparâmetros a serem otimizados são número de camadas escondidas e número de neurônios em cada uma destas camadas escondidas.
 
@@ -10,3 +10,5 @@ Os hiperparâmetros a serem otimizados são número de camadas escondidas e núm
 - Treinar cada configuração de modelo de redes neurais
 - Avaliar a acurácia de teste de cada modelo
 - Ao final, escrever um relatório indicando os fenômenos observados
+
+É necessário adicionar o arquivo *balance-scale.data* ao notebook do Colab antes de executá-lo.
